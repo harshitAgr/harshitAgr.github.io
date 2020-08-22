@@ -1,6 +1,6 @@
 ---
 title: "lafz 1"
-excerpt: "Mere sitaare gardish me aa bhi jayen to kya,
+excerpt: "Mere sitaare gardish me aa bhi jayen to kya,  (<-- two spaces)
 kahkashan sukoon ghar hai mera, sitaare nahi."
 collection: lafz
 ---
