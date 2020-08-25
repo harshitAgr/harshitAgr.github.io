@@ -1,6 +1,6 @@
 ---
 title: "lafz 3"
-excerpt: "Na shahar, na hi mera gaaon rok paaye mujhe, sitaaron ki roshni aankhon me kaid ho gyi thi."
+excerpt: "Na shahar, na hi mera gaaon rok paaye mujhe, <br /> sitaaron ki roshni aankhon me kaid ho gyi thi."
 collection: lafz
 ---
 
