@@ -31,19 +31,24 @@ Work experience
   * Tested a novel idea for the MRI compatible EEG cap design, also worked on a Caffe based tool, using convolutional neural networks to capture motion time series from videos of interacting people to conduct behavioural analysis.
   * Supervisors: Prof. Iiro Jaskalainen and Risto Ilmoniemi
   
- * Dec 2011 - Aug 2016: Senior customer service engineer
+* Dec 2011 - Aug 2016: Senior customer service engineer
   * GE Healthcare India
   * installations, services, and basic application training for MRI, CT & Vascular products (Cath Lab & OEC).
  
   
-Skills
+Hand-on Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Deep learning libraries
+  * Pytorch
+  * Tensorflow
+  * Caffe
+* Python Libraries
+  * Numpy
+  * Scikit
+  * OpenCv
+  * Scipy
+  * Matplotlib
 
 Publications
 ======
@@ -63,6 +68,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<> Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+<> * Currently signed in to 43 different slack teams
